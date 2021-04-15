@@ -1,6 +1,6 @@
 # Project-Przetwarzanie-obrazow-cyfrowych-Ziarna
-Obliczanie ziaren znajdujących się na zdjęciu.
+Calculation of the grains that are in the photo.
 
-Celem projektu było zaprojektować a następnie zaimplementować sekwencję operacji przetwarzania obrazów umożliwiający wyznaczenie liczby obiektów (ziaren)znajdujących się na obrazie wejściowym.
+The aim of the project was to design and then implement a sequence of image processing operations enabling the determination of the number of objects (grains) on the input image.
 
-Projekt został stworzony w Jupyter notebook
+The project was created in a Jupyter notebook.
